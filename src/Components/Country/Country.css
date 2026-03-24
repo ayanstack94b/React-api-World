@@ -13,3 +13,16 @@
   font-weight: bold;
   border: 1px solid goldenrod;
 }
+ button{
+    margin-left: 5px;
+    background-color: crimson;
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 4px;
+    font-weight: bold;
+ }
+ .div-flag-img{
+    height:150px ;
+    width:250px ;
+ }

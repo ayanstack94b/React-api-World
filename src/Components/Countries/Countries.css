@@ -5,3 +5,18 @@
   grid-template-columns: repeat(3, 1fr);
   gap: 20px;
 }
+
+.visited-flags-container{
+  width: 1400px;
+  margin: 0 auto;
+  background-color: #e2dcdc;
+  margin-bottom: 20px;
+  padding: 10px;
+border-radius: 5px;
+}
+
+.visited-flags-container img{
+  width: 150px;
+  height: 100px;
+  margin-right: 30px;
+}
